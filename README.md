@@ -22,7 +22,6 @@ What things you need to install:
 ```
 Java Development Kit (JDK)
 Eclipse editor
-
 ```
 
 ## Running the tests
@@ -51,6 +50,6 @@ To assess the unit tests defective solutions will be executed against the follow
 
 ## Acknowledgments
 
-* For more information about the project please refer to (CAB302Project_Info.pdf).
+* For more information about the project please refer to (Software_Development_Project2/CAB302Project_Info.pdf).
 
 
