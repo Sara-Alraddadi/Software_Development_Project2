@@ -1,6 +1,6 @@
 # Software Development Project 2
 
-## (Test-Driven Development and Graphical User Interface Programming)
+**(Test-Driven Development and Graphical User Interface Programming)**
 
 ## Scenario
 
