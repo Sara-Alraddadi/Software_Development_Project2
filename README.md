@@ -9,10 +9,10 @@ Pizza Palace is a restaurant in West End, Brisbane. Last year, they had a group 
 
 ## Getting Started
 
-• src: This directory contains all the source code.  asgn2Customers, asgn2Pizzas, asgn2Resurant, asgn2GUis, asgn2Wizards packages as well as test code in the asgn2Tests package.
-• doc: This directory contains the API. It has been generated using the Javadoc tool on a complete system.
-• logs: This directory contains some test logs.
-• libs: This directory contains the libraries for JUnit and Hamcrest.
+* src: This directory contains all the source code.  asgn2Customers, asgn2Pizzas, asgn2Resurant, asgn2GUis, asgn2Wizards packages as well as test code in the asgn2Tests package.
+* doc: This directory contains the API. It has been generated using the Javadoc tool on a complete system.
+* logs: This directory contains some test logs.
+* libs: This directory contains the libraries for JUnit and Hamcrest.
 
 
 ### Prerequisites
@@ -30,12 +30,12 @@ The test classes will be executed on a series of defective solutions to ensure t
 
 To assess the unit tests defective solutions will be executed against the following classes:
 
-• asgn2.CustomerFactoryTests
-• asgn2.CustomerTests
-• asgn2.LogHandlerCustomerTests • asgn2.RestaurantCustomerTests
-• asgn2.PizzaFactoryTests
-• asgn2.PizzaTests
-• asgn2.LogHandlerPizzaTests • asgn2.RestaurantPizzaTests
+* asgn2.CustomerFactoryTests
+* asgn2.CustomerTests
+* asgn2.LogHandlerCustomerTests • asgn2.RestaurantCustomerTests
+* asgn2.PizzaFactoryTests
+* asgn2.PizzaTests
+* asgn2.LogHandlerPizzaTests • asgn2.RestaurantPizzaTests
 
 
 ## Built With
