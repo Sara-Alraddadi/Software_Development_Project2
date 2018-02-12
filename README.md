@@ -9,10 +9,10 @@ Pizza Palace is a restaurant in West End, Brisbane. Last year, they had a group 
 
 ## Getting Started
 
-* src: This directory contains all the source code.  asgn2Customers, asgn2Pizzas, asgn2Resurant, asgn2GUis, asgn2Wizards packages as well as test code in the asgn2Tests package.
-* doc: This directory contains the API. It has been generated using the Javadoc tool on a complete system.
-* logs: This directory contains some test logs.
-* libs: This directory contains the libraries for JUnit and Hamcrest.
+* **src**: This directory contains all the source code.  asgn2Customers, asgn2Pizzas, asgn2Resurant, asgn2GUis, asgn2Wizards packages as well as test code in the asgn2Tests package.
+* **doc**: This directory contains the API. It has been generated using the Javadoc tool on a complete system.
+* **logs**: This directory contains some test logs.
+* **libs**: This directory contains the libraries for JUnit and Hamcrest.
 
 
 ### Prerequisites
