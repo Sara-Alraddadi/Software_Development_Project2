@@ -46,7 +46,7 @@ To assess the unit tests defective solutions will be executed against the follow
 
 ## Author
 
-* **Sara Alraddadi** - *Initial work* - [Sara-Alraddadi](https://github.com/Saraalraddadi)
+* **Sara Alraddadi** - *Initial work* - [Sara Alraddadi](https://github.com/Saraalraddadi)
 
 
 ## Acknowledgments
